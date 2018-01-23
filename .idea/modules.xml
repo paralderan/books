@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\Workspace\books\R3PIBooks.iml" filepath="E:\Workspace\books\R3PIBooks.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/books.iml" filepath="$PROJECT_DIR$/.idea/books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books.iml" filepath="$PROJECT_DIR$/books.iml" />
     </modules>
   </component>
 </project>
